@@ -1,1 +1,1 @@
-# Image-Process of sek su
+# Image-Process's Lab of sek su
